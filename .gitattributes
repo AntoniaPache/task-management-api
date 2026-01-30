@@ -1,0 +1,9 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+### Personal additions ###
+.env
+**/application-secrets.yml
+application-local.yml
+.DS_Store
+.vscode/
